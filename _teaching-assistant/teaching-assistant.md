@@ -2,7 +2,7 @@
 title: "Teaching assistant experience"
 collection: teaching
 type: "TA for undergraduate courses"
-permalink: /teaching/teaching-assistant
+permalink: /teaching-assistant/teaching-assistant
 venue: "University of Electronic Science and Technology of China (UESTC)"
 date: 2023-01-01
 location: "Chengdu, China"
