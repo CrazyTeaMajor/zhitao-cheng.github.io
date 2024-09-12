@@ -70,3 +70,9 @@ Interests
 - Piano
 - Table Tennis
 - Animation, Cartoon and Game (ACG)
+
+
+Friends Links
+====
+- [Minghong Cai, PhD. in MMLab@CUHK](https://www.linkedin.com/in/minghong-cai-425bb4274/)
+- [Kangrui Du, M.S. in Computational Science and Engineering, Georgia Institute of Technology](https://rockdu.github.io/)
