@@ -36,7 +36,33 @@ Awards
 
 Educations
 ====
-- 2020.9 - 2024.7 Dual B.S. in **Data Science and Big Data Technologies** and **Computer Science and Technology** at University of Electronic Science and Technology of China [(UESTC)](https://en.uestc.edu.cn/)
+- 2020.9 - 2024.7 Dual B.S. in **Data Science and Big Data Technologies** and **Computer Science and Technology** at University of Electronic Science and Technology of China [(UESTC)](https://en.uestc.edu.cn/) (GPA:3.96/4.00)
+
+
+Teaching Assistant
+====
+**Artificial Intelligence**
+Instructor: Dr. Yong Tang, undergraduates in UESTC, 41 students, fall 2022, 32 hours; 41 students, fall 2023, 32 hours.
+- Prepared course materials.
+- Given example project explanation.
+- QA session.
+
+**C programming language**
+Instructor: Dr. Yong Tang, undergraduates in UESTC, 52 students, fall 2022, 48 hours; undergraduates in UESTC, 53 students, fall 2023, 48 hours.
+- Responsible for writing demo code.
+- Show how to write code for example problems.
+- QA session.
+
+**Nonlinear dynamics and advanced signal processing techniques**
+Instructor: Prof. Ludovico Minati, undergraduates in UESTC, 15 students, spring 2024, 24 hours.
+- Teaching feedback.
+- QA session.
+
+
+Internship
+====
+- 2021.7 - 2022.9 AI Lab, Futong Technology Co. Ltd (Participated in the research and development of artificial intelligence algorithm)
+- 2023.9 - 2025.7 AI Lab, DKWA Technologies (Large Language Model (LLM) applications)
 
 
 Interests
