@@ -17,7 +17,7 @@ Instructor: Dr. Yong Tang, undergraduates in UESTC, 41 students, fall 2022, 32 h
 
 C programming language
 ======
-Instructor: Dr. Yong Tang, undergraduates in UESTC, 52 students, fall 2022, 48 hours. Course: C programming language, Instructor: Dr. Yong Tang, undergraduates in UESTC, 53 students, fall 2023, 48 hours.
+Instructor: Dr. Yong Tang, undergraduates in UESTC, 52 students, fall 2022, 48 hours; undergraduates in UESTC, 53 students, fall 2023, 48 hours.
 - Responsible for writing demo code.
 - Show how to write code for example problems.
 - QA session.
