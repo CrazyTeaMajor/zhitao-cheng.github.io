@@ -18,13 +18,13 @@ I'm looking for PhD offer in CS, EECS, DS, CSC or MA for 2025 Fall.
 
 Honors
 ====
-- 2022.10 2021-2022 National Scholarship of China (top 1%)
-- 2023.12 The Award Nomination of Most Outstanding Students Award of UESTC (2023) (Top 20 undergraduates in UESTC)
-- 2021.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2021) (top 1%)
-- 2022.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2022) (top 1%)
-- 2023.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2023) (top 1%)
 - 2024.7 Honorary research in School of Mathematical Sciences at UESTC (2024) (Top 2 undergraduates in School of Mathematical Sciences at UESTC)
 - 2024.7 Outstanding undergraduate graduate of Sichuan province (2024) (Top 2 undergraduates in School of Mathematical Sciences at UESTC)
+- 2023.12 The Award Nomination of Most Outstanding Students Award of UESTC (2023) (Top 20 undergraduates in UESTC)
+- 2023.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2023) (top 1%)
+- 2022.10 2021-2022 National Scholarship of China (top 1%)
+- 2022.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2022) (top 1%)
+- 2021.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2021) (top 1%)
 
 Awards
 ====
