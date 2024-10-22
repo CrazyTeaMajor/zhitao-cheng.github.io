@@ -103,6 +103,20 @@ Interests
 - Table Tennis
 - Animation, Cartoon and Game (ACG)
 
+Working On
+====
+- Prediction of Preoperative Ki-67 Expression Levels in Periampullary Tumors Based on Deep Learning Multi-modal Image Fusion Combined with Clinical Data (rank 5)
+- Predicting Preoperative Vascular Invasion in Periampullary Cancer Using Multimodal Imaging Fusion Based on Deep Learning Combined with Clinical Data (rank 2)
+- Diffractive Optical Neural Networks Constructed by Contrastive Learning (rank 1)
+- Imaging omics analysis of muscle trends and characteristics after anterior cruciate ligament reconstruction: a cross-sectional study (rank 2)
+- Distinguishing Atypical Leiomyoma and Uterine Sarcoma Based on Deep Learning of Ultrasound Images (rank 2)
+- Study on spleen injury and severity in closed abdominal injury based on abdominal CT plain scan and deep learning (rank 2)
+- CT plain scan in PET/CT simulates tumor and vascular auto-imaging using Deep Learning (rank 2)
+- Artificial intelligence research on Crohn's disease condition and treatment based on crawling fat under CT (rank 2)
+- Gauze Detection and Segmentation in Laparoscopic Liver Surgery by Using Deep Learning – A Multi-center Study (rank 4)
+- A Study on the Identification of Liver Damage Severity and Intervention Methods in Closed Abdomen Injuries Using Deep Learning (rank 4)
+- Surgical site infection prediction using machine learning methods (rank 5)
+- Xrays image gerneration using normal image and bone  disease diagnosis (rank 5)
 
 Friends Links
 ====
