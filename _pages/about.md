@@ -40,6 +40,7 @@ Awards
 - 2022.6 **Honorable Mention** in Blue Bridge Cup National Software and Information Technology Talents Competition C&C++, Nationawide
 
 ### Province
+- 2023.6 **Gold Medal** in The 15th Programming Competition for college students in Sichuan Province
 - 2022.5 **First Prize** in Blue Bridge Cup National Software and Information Technology Talents Competition C&C++, Sichuan Province
 - 2021.5 **Third Prize** in Sichuan College Student Computer Design Competition (Real-time road planning system for blind people based on video segmentation) 2021-SCKSKA050672
 
