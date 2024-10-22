@@ -92,7 +92,7 @@ Project Experience
 	- Based on the questionnaire survey of the elderly and various medical health indicators, a time series analysis model is established to predict and manage the internal functional health of the elderly from horizontal and vertical.
 - National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma
 	- Image data such as CT and MRI and medical clinical related feature data were used to assist the diagnosis of related extrabile duct cancer diseases, including image lesion segmentation, disease types and related expression classification.
-- Key R&D Program of Chongqing (CSTC2020JSCX-CYLHX0006), Study of postoperative delirium
+- Key R&D Program of Chongqing, Study of postoperative delirium
 	- Using preoperative and postoperative patient information, deep learning methods are used to predict postoperative delirium and various prognosis related conditions.
 - University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
 	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python.
