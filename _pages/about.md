@@ -105,6 +105,7 @@ Interests
 
 Working On
 ====
+- K-space and Image domain cross learning (rank 1)
 - Prediction of Preoperative Ki-67 Expression Levels in Periampullary Tumors Based on Deep Learning Multi-modal Image Fusion Combined with Clinical Data (rank 5)
 - Predicting Preoperative Vascular Invasion in Periampullary Cancer Using Multimodal Imaging Fusion Based on Deep Learning Combined with Clinical Data (rank 2)
 - Diffractive Optical Neural Networks Constructed by Contrastive Learning (rank 1)
