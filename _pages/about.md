@@ -87,7 +87,7 @@ Project Experience
 	- Using the competition video of athletes, a posture detection model is constructed to detect whether the athlete falls, and where injuries may occur after a fall to assist the doctor in treatment. 
 - 2021.1-2025.12 Key Projects of National Natural Science Foundation of China, Silicon-based optoelectronic chip system for ultra-high-speed matrix multiplication, PKU&UESTC
 - 2021-2025 Key R&D project of Chongqing Science and Technology Bureau (cstc2020jscx-cylhX0006), Key technology research and application of optoelectronic hybrid artificial intelligence chip public service platform
-	- Computer simulation of relevant materials and optical neural networks (like D2NN) using artificial intelligence algorithm.
+	- Computer simulation using Python for properties of materials test and optical neural networks design (like diffraction deep neural network (D2NN)) using artificial intelligence algorithm.
 - 2023 National Key Research and Development Program of China (2023YFC3605202), Research on the establishment and application of the evaluation system based on the aging rule of the elderly.
 	- Based on the questionnaire survey of the elderly and various medical health indicators, a time series analysis model is established to predict and manage the internal functional health of the elderly from horizontal and vertical.
 - National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma
