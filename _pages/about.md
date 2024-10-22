@@ -96,7 +96,7 @@ Project Experience
 - Key R&D Program of Chongqing, Study of postoperative delirium
 	- Using preoperative and postoperative patient information, deep learning methods are used to predict postoperative delirium and various prognosis related conditions.
 - University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
-	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python.
+	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python. Final paper can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/Light-sailor.pdf)
 
 Interests
 ====
