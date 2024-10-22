@@ -14,7 +14,7 @@ My current research interests are mainly about *Artificial intelligence for scie
 
 I'm interested in *Computer vision*, *Time series analysis*, and *Natural language processing* for Computer Science (CS), while in *Random Matrix Theory*, *Chaos Theory*, and *Nonlinear System* for Mathematics (MA). I'm also fond of *Traditional Algorithm* about *Game Theory*, and *Number Theory* since I was a member of UESTC ACM-ICPC team.
 
-I'm looking for PhD offer in CS, EECS, DS, CSC or MA for 2025 Fall (mainly for AI and AI4SCI). My CV can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/CV_Zhitao_Cheng.pdf)
+I'm looking for PhD offer in CS, EECS, DS, CSC or MA for 2025 Fall (mainly for AI and AI4SCI). My CV can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/CV_Zhitao_Cheng.pdf).
 
 Honors
 ====
