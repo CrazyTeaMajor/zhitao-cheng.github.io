@@ -124,3 +124,4 @@ Friends Links
 ====
 - [Minghong Cai, PhD. in MMLab@CUHK](https://www.linkedin.com/in/minghong-cai-425bb4274/)
 - [Kangrui Du, M.S. in Computational Science and Engineering, Georgia Institute of Technology](https://rockdu.github.io/)
+- [Ziniu Zhang, PhD. in Northeastern University, Boston, Massachusetts, USA](ziniuzhang.github.io)
