@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I'm Zhitao Cheng, now working as a research assistant in [Artificial Intelligence Technology and Research Lab](https://github.com/AITARLab) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), supervised by [Prof. Yong Tang](https://orcid.org/0000-0002-5036-4350). I have received my dual Bachelor's degrees in [School of Mathematical Sciences](https://www.math.uestc.edu.cn/) and [Computer Science and Technology](https://www.scse.uestc.edu.cn/) at UESTC.
 
-My current research interests are mainly about *Artificial intelligence for science* and *Optical intelligent computing*. I'm working on many projects and researches on *Deep learning* and *Machine learning*, especially intersect with medicine, biology and chemistry. 
+My current research interests are mainly about *Artificial intelligence for science* and *Optical intelligent computing*. I'm working on many projects and researches on *Deep learning* and *Machine learning*, especially intersect with medicine, biology and chemistry. My graduation project is about the diffraction deep neural network (D2NN), can download [here](../files/Graduation-project-Zhitao-Cheng.pdf)
 
 I'm interested in *Computer vision*, *Time series analysis*, and *Natural language processing* for Computer Science (CS), while in *Random Matrix Theory*, *Chaos Theory*, and *Nonlinear System* for Mathematics (MA). I'm also fond of *Traditional Algorithm* about *Game Theory*, and *Number Theory* since I was a member of UESTC ACM-ICPC team.
 
