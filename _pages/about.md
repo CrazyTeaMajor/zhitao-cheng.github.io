@@ -14,11 +14,11 @@ My current research interests are mainly about *Artificial intelligence for scie
 
 I'm interested in *Computer vision*, *Time series analysis*, and *Natural language processing* for Computer Science (CS), while in *Random Matrix Theory*, *Chaos Theory*, and *Nonlinear System* for Mathematics (MA). I'm also fond of *Traditional Algorithm* about *Game Theory*, and *Number Theory* since I was a member of UESTC ACM-ICPC team.
 
-I'm looking for PhD offer in CS, EECS, DS, CSC or MA for 2025 Fall.
+I'm looking for PhD offer in CS, EECS, DS, CSC or MA for 2025 Fall (mainly for AI and AI4SCI).
 
 Honors
 ====
-- 2024.7 Honorary research in School of Mathematical Sciences at UESTC (2024) (Top 2 undergraduates in School of Mathematical Sciences at UESTC)
+- 2024.7 Honorary research student in School of Mathematical Sciences at UESTC (2024) (Top 2 undergraduates in School of Mathematical Sciences at UESTC)
 - 2024.7 Outstanding undergraduate graduate of Sichuan province (2024) (Top 2 undergraduates in School of Mathematical Sciences at UESTC)
 - 2023.12 The Award Nomination of Most Outstanding Students Award of UESTC (2023) (Top 20 undergraduates in UESTC)
 - 2023.10 Excellent Student Scholarship in School of Mathematical Sciences at UESTC (2023) (top 1%)
@@ -28,10 +28,24 @@ Honors
 
 Awards
 ====
+### ICPC
+
 - 2024.1 **Bronze Medal** in [The International Collegiate Programming Contest - Asia-East Continent Final (2023)](https://icpc.global/)
 - 2023.12 **Gold Medal** in [The International Collegiate Programming Contest - Regional Contest Hangzhou station (2023)](https://icpc.global/)
 - 2023.11 **Silver Medal** in [The International Collegiate Programming Contest - Regional Contest Macau station (2023)](https://icpc.global/)
 - 2022.11 **Silver Medal** in [The International Collegiate Programming Contest - Regional Contest Jinan station (2022)](https://icpc.global/)
+
+### Nation
+- 2023.10 **Bronze Medal** in [China Collegiate Programming Contest - Qinhuangdao station](https://ccpc.io/)
+- 2022.6 **Honorable Mention** in Blue Bridge Cup National Software and Information Technology Talents Competition C&C++, Nationawide
+
+### Province
+- 2022.5 **First Prize** in Blue Bridge Cup National Software and Information Technology Talents Competition C&C++, Sichuan Province
+- 2021.5 **Third Prize** in Sichuan College Student Computer Design Competition (Real-time road planning system for blind people based on video segmentation) 2021-SCKSKA050672
+
+### College
+- 2023.7 **First Prize** The 21th ACM Programming Competition of University of Electronic Science and Technology of China
+- 2021.12 **Second Prize** The 12th ACM Fun Competition for Programming of University of Electronic Science and Technology of China
 
 
 Educations
@@ -42,19 +56,19 @@ Educations
 Teaching Assistant
 ====
 ### **Artificial Intelligence**
-Instructor: Dr. Yong Tang, undergraduates in UESTC, 41 students, fall 2022, 32 hours; 41 students, fall 2023, 32 hours.
-- Prepared course materials.
+Instructor: Dr. Yong Tang, undergraduates in UESTC, 41 sophomores , fall 2022, 32 hours; 41 sophomores, fall 2023, 32 hours.
+- Prepared course materials (Code and documents).
 - Given example project explanation.
 - QA session.
 
 ### **C programming language**
-Instructor: Dr. Yong Tang, undergraduates in UESTC, 52 students, fall 2022, 48 hours; undergraduates in UESTC, 53 students, fall 2023, 48 hours.
+Instructor: Dr. Yong Tang, undergraduates in UESTC, 52 freshmen, fall 2022, 48 hours; undergraduates in UESTC, 53 freshmen, fall 2023, 48 hours.
 - Responsible for writing demo code.
 - Show how to write code for example problems.
 - QA session.
 
 ### **Nonlinear dynamics and advanced signal processing techniques**
-Instructor: Prof. Ludovico Minati, undergraduates in UESTC, 15 students, spring 2024, 24 hours.
+Instructor: Prof. Ludovico Minati, undergraduates in UESTC, 15  sophomores & juniors, spring 2024, 24 hours.
 - Teaching feedback.
 - QA session.
 
@@ -62,8 +76,26 @@ Instructor: Prof. Ludovico Minati, undergraduates in UESTC, 15 students, spring 
 Internship
 ====
 - 2021.7 - 2022.9 AI Lab, Futong Technology Co. Ltd (Participated in the research and development of artificial intelligence algorithm)
+	- Foodshot: A deep learning-based intelligent system for food recognition
+	- National Key R&D project: Intelligent Healthcare for Winter Olympics (Beijing)
 - 2023.9 - 2025.7 AI Lab, DKWA Technologies (Large Language Model (LLM) applications)
+- 2024.8 - 2025.7 Artificial Intelligence Technology and Application Laboratory, Research Assistant
 
+Project Experience
+====
+- 2020.10-2022.12 Key R&D Program of Ministry of Science and Technology, Key technologies of smart medical security for the Winter Olympics (2020YFF0305100), Futong Technology Co. Ltd
+	- Using the competition video of athletes, a posture detection model is constructed to detect the fall of athletes, and the fall site is judged to be serious, and the rescue doctor is assisted in treatment. 
+- 2021.1-2025.12 Key Projects of National Natural Science Foundation of China, Silicon-based optoelectronic chip system for ultra-high-speed matrix multiplication, PKU&UESTC
+- 2021-2025 Key R&D project of Chongqing Science and Technology Bureau (cstc2020jscx-cylhX0006), Key technology research and application of optoelectronic hybrid artificial intelligence chip public service platform
+	- Computer simulation of relevant materials and optical neural networks (like D2NN) is carried out using artificial intelligence.
+- 2023 National Key Research and Development Program of China (2023YFC3605202), Research on the establishment and application of the evaluation system based on the aging rule of the elderly.
+	- Based on the questionnaire survey of the elderly and various medical health indicators, a time series analysis model is established to predict and manage the internal functional health of the elderly from horizontal and vertical.
+- National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma
+	- Image data such as CT and MRI and medical clinical related index data were used to assist the diagnosis of related extrabile duct cancer diseases, including image lesion segmentation, disease types and related expression classification.
+- Key R&D Program of Chongqing (CSTC2020JSCX-CYLHX0006), Study of postoperative delirium
+	- Using preoperative and postoperative patient information, deep learning methods are used to predict postoperative delirium and various prognosis related conditions.
+- University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
+	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is simulated.
 
 Interests
 ====
