@@ -85,16 +85,11 @@ Internship
 Project Experience
 ====
 - 2020.10-2022.12 Key R&D Program of Ministry of Science and Technology, Key technologies of smart medical security for the Winter Olympics (2020YFF0305100), Futong Technology Co. Ltd
-	- Using the competition video of athletes, a posture detection model is constructed to detect whether the athlete falls, and where injuries may occur after a fall to assist the doctor in treatment. 
 - 2021.1-2025.12 Key Projects of National Natural Science Foundation of China, Silicon-based optoelectronic chip system for ultra-high-speed matrix multiplication, PKU&UESTC
 - 2021-2025 Key R&D project of Chongqing Science and Technology Bureau (cstc2020jscx-cylhX0006), Key technology research and application of optoelectronic hybrid artificial intelligence chip public service platform
-	- Computer simulation using Python for properties of materials test and optical neural networks design (like diffraction deep neural network (D2NN)) using artificial intelligence algorithm.
 - 2023 National Key Research and Development Program of China (2023YFC3605202), Research on the establishment and application of the evaluation system based on the aging rule of the elderly.
-	- Based on the questionnaire survey of the elderly and various medical health indicators, a time series analysis model is established to predict and manage the internal functional health of the elderly from horizontal and vertical.
 - National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma
-	- Image data such as CT and MRI and medical clinical related feature data were used to assist the diagnosis of related extrabile duct cancer diseases, including image lesion segmentation, disease types and related expression classification.
 - Key R&D Program of Chongqing, Study of postoperative delirium
-	- Using preoperative and postoperative patient information, deep learning methods are used to predict postoperative delirium and various prognosis related conditions.
 - University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
 	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python. Final paper can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/Light-sailor.pdf)
 
