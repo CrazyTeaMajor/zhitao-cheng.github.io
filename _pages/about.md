@@ -88,8 +88,8 @@ Project Experience
 - 2021.1-2025.12 Key Projects of National Natural Science Foundation of China, Silicon-based optoelectronic chip system for ultra-high-speed matrix multiplication, PKU&UESTC
 - 2021-2025 Key R&D project of Chongqing Science and Technology Bureau (cstc2020jscx-cylhX0006), Key technology research and application of optoelectronic hybrid artificial intelligence chip public service platform
 - 2023 National Key Research and Development Program of China (2023YFC3605202), Research on the establishment and application of the evaluation system based on the aging rule of the elderly.
-- National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma
-- Key R&D Program of Chongqing, Study of postoperative delirium
+- National Natural Science Foundation of China (82272077), Study on extrabiliary carcinoma (CCA&ECCA) 
+- Key R&D Program of Chongqing, Study of postoperative delirium (CSTB2022NSCQ-MSX0854)
 - University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
 	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python. Final paper can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/Light-sailor.pdf)
 
