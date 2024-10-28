@@ -92,6 +92,8 @@ Project Experience
 - Key R&D Program of Chongqing, Study of postoperative delirium (CSTB2022NSCQ-MSX0854)
 - University of Electronic Science and Technology of China (202210614179Y), Light sailor: an laser powered spacecraft for interplanetary travelling.
 	- The lightsail spacecraft is designed, and the reinforcement learning is used to control the navigation trajectory and the lightsail attitude, and the simulation experiment is experiment in computer using Python. Final paper can be downloaded [here](https://github.com/CrazyTeaMajor/zhitao-cheng.github.io/blob/master/files/Light-sailor.pdf)
+- School Project, Road implementation planning system for the blind based on video segmentation (2021-SCJSJA050672)
+- Course Project, Reinforcement Learning Training for King of Glory Heroes Battle Agent based on KaiWu Platform (Tencent)
 
 Interests
 ====
